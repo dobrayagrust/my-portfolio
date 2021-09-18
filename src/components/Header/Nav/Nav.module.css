@@ -1,0 +1,17 @@
+.nav {
+    width: 700px;
+    display: flex;
+    /*flex-direction: row;*/
+    /*flex-wrap: wrap;*/
+    justify-content: space-around;
+    /*align-items: start;*/
+}
+.nav a {
+    color: ghostwhite;
+    text-decoration: none;
+
+}
+.nav a:hover {
+    color: white;
+    /*text-decoration: underline;*/
+}
