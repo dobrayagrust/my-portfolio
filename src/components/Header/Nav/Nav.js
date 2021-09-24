@@ -3,7 +3,7 @@ import style from './Nav.module.css';
 
 export const Nav = () => {
     return (
-        <div className={style.nav}>
+        <div className={style.blockWrapper}>
             <a href="">Homepage</a>
             <a href="">About Me</a>
             <a href="">Skills</a>

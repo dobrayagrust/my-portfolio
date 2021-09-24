@@ -1,0 +1,38 @@
+.content {
+    background-color: black;
+    /*height: 100vh;*/
+    /*font-family: "Helvetica", -apple-system, sans-serif;*/
+    color: white;
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    /*align-items: center;*/
+    /*border: 1px solid red;*/
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    justify-content: space-evenly;
+}
+
+.sectionHeading {
+    /*border: 1px solid white;*/
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+}
+
+.resumeSection {
+    display: flex;
+    flex-flow: row;
+    /*align-content: center;*/
+    justify-content: space-around;
+}
+.row {
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+
+}
+.educationBlock {
+    /*display: flex;*/
+    /*flex-flow: column;*/
+}

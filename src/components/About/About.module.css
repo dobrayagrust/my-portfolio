@@ -1,0 +1,105 @@
+.content {
+    background-color: black;
+    /*height: 100vh;*/
+    /*font-family: "Helvetica", -apple-system, sans-serif;*/
+    color: white;
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    /*align-items: center;*/
+    /*border: 1px solid red;*/
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    justify-content: space-evenly;
+}
+
+
+/*.container {*/
+/*    border: 1px solid white;*/
+/*    height: 100%;*/
+/*    width: 80%;*/
+/*    display: flex;*/
+/*    flex-flow: row;*/
+/*}*/
+
+.sectionHeading {
+    /*border: 1px solid white;*/
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+
+}
+
+.sectionDescription {
+}
+
+.sectionTitle {
+}
+
+.animatedBar {
+}
+
+.infoSection {
+    width: 100%;
+    /*border: 1px solid red;*/
+    display: flex;
+    align-items: center;
+    flex-flow: row;
+    justify-content: space-evenly;
+
+}
+.infoImg {
+    background-color: darkslategrey;
+
+
+}
+.img {
+
+}
+.contentBlock {
+
+}
+
+.contentSubtitle {
+
+}
+
+.contentTitle {
+
+}
+
+.contentInfo {
+    display: flex;
+    flex-flow: column;
+
+}
+
+
+.contentDescription {
+
+}
+.contentContact {
+
+    font-size: 15px;
+    margin-bottom: 4px;
+    padding: 29px 0;
+}
+
+.singleInfo {
+
+}
+
+.contactInfo {
+    /*border: 1px solid white;*/
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+.row {
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+    /*margin-left: -15px;*/
+    /*margin-right: -15px;*/
+}

@@ -1,4 +1,4 @@
-.nav {
+.blockWrapper {
     width: 700px;
     display: flex;
     /*flex-direction: row;*/
@@ -6,12 +6,12 @@
     justify-content: space-around;
     /*align-items: start;*/
 }
-.nav a {
+.blockWrapper a {
     color: ghostwhite;
     text-decoration: none;
 
 }
-.nav a:hover {
+.blockWrapper a:hover {
     color: white;
     /*text-decoration: underline;*/
 }
