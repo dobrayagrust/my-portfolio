@@ -1,4 +1,7 @@
-.blockWrapper {
+.container {
     background-color: gray;
-    height: 15px;
+    height: max-content;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
 }
