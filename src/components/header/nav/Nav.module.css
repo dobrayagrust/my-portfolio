@@ -1,17 +1,26 @@
-.blockWrapper {
-    width: 700px;
+.container {
     display: flex;
-    /*flex-direction: row;*/
-    /*flex-wrap: wrap;*/
-    justify-content: space-around;
-    /*align-items: start;*/
+    justify-content: center;
+    width: 80%;
+
 }
-.blockWrapper a {
+
+.sectionList {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    align-content: center;
+    list-style: none;
+}
+.item {
+    display: list-item;
+}
+.sectionList a {
     color: ghostwhite;
     text-decoration: none;
 
 }
-.blockWrapper a:hover {
+
+.sectionList a:hover {
     color: white;
-    /*text-decoration: underline;*/
 }

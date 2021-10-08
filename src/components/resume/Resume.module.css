@@ -1,19 +1,24 @@
 .container {
     background-color: honeydew;
-    height: 100%;
+    height: max-content;
     display: flex;
     flex-flow: column;
     align-items: center;
+    align-content: center;
     padding: 10px;
 }
+
 .sectionHeader {
+    background-color: yellow;
     display: flex;
     flex-flow: column;
-    justify-items: center;
+    align-content: center;
+    align-items: center;
 }
+
 .sectionResume {
     width: 80%;
     display: flex;
     flex-flow: row;
-    justify-content: space-evenly ;
+    justify-content: space-evenly;
 }

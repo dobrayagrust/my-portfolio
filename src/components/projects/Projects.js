@@ -5,7 +5,7 @@ export const Projects = () => {
     return (
         <div className={style.container}>
             <div className={style.sectionHeader}>
-                <h6 className={style.sectionDescription}>Showcasing some of my best work</h6>
+                <p className={style.sectionDescription}>Showcasing some of my best work</p>
                 <h2 className={style.sectionTitle}>Portfolio</h2>
             </div>
 

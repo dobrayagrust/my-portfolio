@@ -1,33 +1,29 @@
 .content {
     background-color: cadetblue;
-    height: 100vh;
+    height: max-content;
     display: flex;
-    align-items: center;
     flex-flow: column;
+    align-content: center;
+    align-items: center;
     justify-content: space-evenly;
     padding: 15px;
 
 }
 
 .skillSection {
-    width: 45%;
+    width: 80%;
     display: flex;
     flex-flow: row;
     justify-content: space-around;
     flex-wrap: wrap;
-
 }
 
-
-.sectionHeading {
+.sectionHeader {
+    background-color: yellow;
     display: flex;
     flex-flow: column;
     align-content: center;
+    align-items: center;
 }
 
-.resumeSection {
-    display: flex;
-    flex-flow: row;
-    justify-content: space-around;
-}
 

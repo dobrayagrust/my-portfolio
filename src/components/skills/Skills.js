@@ -6,8 +6,8 @@ import {Skill} from "./skill/Skill";
 export const Skills = () => {
     return (
         <div className={style.content}>
-            <div className={style.sectionHeading}>
-                <h6 className={style.sectionDescription}>Check out my skills</h6>
+            <div className={style.sectionHeader}>
+                <p className={style.sectionDescription}>Check out my skills</p>
                 <h2 className={style.sectionTitle}>Skills</h2>
             </div>
             <div className={style.skillSection}>

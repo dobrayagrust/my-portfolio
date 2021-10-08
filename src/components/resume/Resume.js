@@ -5,7 +5,7 @@ export const Resume = () => {
     return (
         <div className={style.container}>
                 <div className={style.sectionHeader}>
-                    <h6 className={style.sectionDescription}>My level of knowledge in some tools</h6>
+                    <p className={style.sectionDescription}>My level of knowledge in some tools</p>
                     <h2 className={style.sectionTitle}>Resume</h2>
                 </div>
                 <div className={style.sectionResume}>
