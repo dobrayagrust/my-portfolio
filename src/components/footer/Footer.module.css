@@ -1,7 +1,12 @@
 .container {
-    background-color: gray;
+    background-color: black;
+    color: white;
     height: max-content;
     display: flex;
     flex-flow: row;
     justify-content: space-around;
+    padding: 10px;
+}
+.text {
+
 }

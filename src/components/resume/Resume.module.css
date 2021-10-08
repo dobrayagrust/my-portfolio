@@ -1,0 +1,19 @@
+.container {
+    background-color: honeydew;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 10px;
+}
+.sectionHeader {
+    display: flex;
+    flex-flow: column;
+    justify-items: center;
+}
+.sectionResume {
+    width: 80%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly ;
+}

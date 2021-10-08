@@ -5,11 +5,12 @@
     align-items: center;
     flex-flow: column;
     justify-content: space-evenly;
+    padding: 15px;
 
 }
 
 .skillSection {
-    width: 50%;
+    width: 45%;
     display: flex;
     flex-flow: row;
     justify-content: space-around;
@@ -30,14 +31,3 @@
     justify-content: space-around;
 }
 
-
-.row {
-    /*display: flex;*/
-    /*flex-wrap: wrap;*/
-
-}
-
-.educationBlock {
-    /*display: flex;*/
-    /*flex-flow: column;*/
-}

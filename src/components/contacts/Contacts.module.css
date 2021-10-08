@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: bisque;
+    padding: 10px;
+}
+
+.button {
+    width: 70px;
+    height: 30px;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.textarea {
+    height: 70px;
+    width: 300px;
+    margin-top: 15px;
+}
+.input {
+    height: 30px;
+    width: 300px;
+    margin-top: 15px;
+}
+.header {
+    height: 15px;
+    display: flex;
+    justify-content: center;
+}
